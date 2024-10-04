@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on API + Postman automation<br>🌱 I’m currently learning Advance Design Patterns, Playwright, Cypress<br>👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks <br>👨‍💻 All of my projects are available at https://github.com/silppas<br>💬 Ask me about Selenium, SDET, JAVA, Javascript, POSTMAN, Rest Assured, SQL, <br>📫 How to reach me silppasundaran@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/silppas/<br>
+🔭 I’m currently working on API + Postman automation<br>🌱 I’m currently learning Advance Design Patterns, Playwright, Cypress<br>👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks <br>👨‍💻 All of my projects are available at https://github.com/silppas<br>💬 Ask me about Selenium, API, SDET, JAVA, Javascript, POSTMAN, Rest Assured, SQL, <br>📫 How to reach me silppasundaran@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/silppas/<br>
 
 
 ## 🌐 Socials:
